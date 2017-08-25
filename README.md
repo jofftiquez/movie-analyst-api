@@ -1,0 +1,1 @@
+This is a test app to secure an API with user authentication and authorization
